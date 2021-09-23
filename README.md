@@ -11,3 +11,4 @@ Small Projects
 <br>
 [Animated Site](https://fmundergrad.hunter.cuny.edu/~dallande/WebDev2/WebsiteFiles/AnimationAssignment/index.html)
 <br>
+[Interactive Story (Very Early Project)](https://fmundergrad.hunter.cuny.edu/~dallande/WebDev2/WebsiteFiles/school%20site/interactivestory.html)
