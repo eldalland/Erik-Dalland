@@ -9,7 +9,7 @@ Functionality not working on Hunter server, but is supposed to record and displa
 <br>
 [Earlier/Different Version of Recipe Site (No PHP)](https://fmundergrad.hunter.cuny.edu/~dallande/medp285/Cooking%20Site/Index.html)
 <br>
-Small Projects
+Other Projects
 <br>
 [Animated Site](https://fmundergrad.hunter.cuny.edu/~dallande/WebDev2/WebsiteFiles/AnimationAssignment/index.html)
 <br>
