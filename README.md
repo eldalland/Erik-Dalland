@@ -8,6 +8,7 @@ Functionality not working on Hunter server, but is supposed to record and displa
 [Hunter Polling Site](https://swiss1.hunter.cuny.edu/students/dev6/FinalProject/pollSite.html)
 <br>
 [Earlier/Different Version of Recipe Site (No PHP)](https://fmundergrad.hunter.cuny.edu/~dallande/medp285/Cooking%20Site/Index.html)
+<br>
 Small Projects
 <br>
 [Animated Site](https://fmundergrad.hunter.cuny.edu/~dallande/WebDev2/WebsiteFiles/AnimationAssignment/index.html)
