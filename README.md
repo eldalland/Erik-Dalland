@@ -1,5 +1,6 @@
 # Erik-Dalland
-[Portfolio Site](https://eldalland.github.io/PortfolioSite/)
+[Portfolio Site]([https://eldalland.github.io/PortfolioSite/](https://eldalland.github.io/portfolio-site/))
+[Built Portfolio Site for Chane of Command](https://chaneofcommand.com)
 <br>
 Old Website Projects
 <br>
