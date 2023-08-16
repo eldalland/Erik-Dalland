@@ -1,5 +1,5 @@
 # Erik-Dalland
-[Portfolio Sites]
+Portfolio Sites
 <br>
 [Personal Portfolio Site](https://eldalland.github.io/portfolio-site/)
 <br>
