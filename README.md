@@ -2,7 +2,8 @@
 [Portfolio Sites]
 <br>
 [Personal Portfolio Site](https://eldalland.github.io/portfolio-site/)
-[Built Portfolio Site for Chane of Command](https://chaneofcommand.com)
+<br>
+[Portfolio Site for Chane of Command](https://chaneofcommand.com)
 <br>
 Old Website Projects
 <br>
